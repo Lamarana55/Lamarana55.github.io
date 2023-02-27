@@ -1,1 +1,7 @@
 site_name: LAMARANA
+repo_url: https://github.com/Lamarana55/Lamarana55.github.io
+site_url: https://github.com/Lamarana55/
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
